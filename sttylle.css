@@ -1,0 +1,72 @@
+body{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.blue{
+    background-color: navy;
+    height: 800px;
+    width: 1300px;
+    margin-top: 5px;
+    padding: 100px;
+
+    
+}
+.landingage{
+    color: white;
+    height: 200px;
+    width: 900px;
+    position: relative;
+    left: 50px;
+    top: 300px;
+    padding: 10px;
+
+
+    
+}
+.buttoncolor {
+   background-color: green;
+   color: white;
+   width: 150px;
+   height: 50px;
+   border-radius: 10px;
+   
+}
+.fastresponse{
+    height: 500px;
+    width: 200px;
+    position: relative;
+    left: 800px;
+    background-color: white;
+    padding: 20px;
+    border: 2px solid;
+    border-color: gray;
+    border-radius: 10px;
+
+}
+.easybooked{
+    height: 500px;
+    width: 200px;
+    position: relative;
+    left: 1000px;
+    bottom: 600px;
+    background-color: white;
+    padding: 20px;
+    border: 2px solid;
+    border-color: gray;
+    border-radius: 10px;
+}
+.elu{
+    color: white;
+}
+.ft{
+    margin-top: 300px;
+}
+.eb{
+    margin-top: 270px;
+}
+.ig{
+    text-align: center;
+}
+
